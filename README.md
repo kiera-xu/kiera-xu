@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kiera 👋
 
-<!--
-**kiera-xu/kiera-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Creative × Creative Coding
 
-Here are some ideas to get you started:
+I explore how AI, visual design and code can turn ideas into interactive digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+- AI Creative & Visual Design
+- Interactive Web & Creative Coding
+- AI-assisted creative workflows
+- From concept and interaction to development and deployment
+
+### Selected Work
+
+Currently building interactive web experiments and AI-powered creative projects.
+
+### Portfolio
+
+Coming soon: kieraxu.cn
